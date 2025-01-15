@@ -19,7 +19,7 @@ Este repositorio contiene un script desarrollado en Python que utiliza la biblio
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/ifc-file-splitter.git
+   git clone https://github.com/gacevedob/dividir_ifc.git
    cd ifc-file-splitter
    
 2. Instala ifcopenshell:
